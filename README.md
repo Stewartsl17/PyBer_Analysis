@@ -11,12 +11,12 @@ According the PyBer Summary (Table 1), we can see that urban areas has the most 
 
 We were also asked to look into fares week-by week from the first week of January to the last week of April. This can be seen in Table 2. 
 
-* Table 2: Fares by Week
+* Table 2: Fares by Week <br>
 ![](https://github.com/Stewartsl17/PyBer_Analysis/blob/master/Resources/Fare%20Per%20Week.png)
 
 Overall, we can see that urban areas have the have the most fares per week and rural areas have the least fares per week, which follows our summary analysis. This can be further visualized in the line chart labeled Chart 1. 
 
-* Chart 1: Total Fares by City Type
+* Chart 1: Total Fares by City Type <br>
 ![](https://github.com/Stewartsl17/PyBer_Analysis/blob/master/Total%20Fares%20by%20City%20Type.png)
 
 # Summary
